@@ -21,7 +21,7 @@ public class MainMenu {
 
     String login_menu() {
         return ("Welcome to the USSD Digital Wallet\n" +
-                "Please enter the one of the following option: \n" +
+                "Enter the one of the following option: \n" +
                 "1. Login \n" +
                 "2. Register \n" +
                 "3. Exit \n");
